@@ -1,0 +1,187 @@
+[
+
+  {
+    "id": 101,
+    "title": "Marketing Planning",
+    "date": "2025-05-03",
+    "time": "11:00",
+    "duration": "60",
+    "description": "Q2 marketing strategy session",
+    "color": "#0ea5e9"
+  },
+  {
+    "id": 102,
+    "title": "Parent-Teacher Meet",
+    "date": "2025-05-07",
+    "time": "16:30",
+    "duration": "45",
+    "description": "School meeting",
+    "color": "#f43f5e"
+  },
+  {
+    "id": 103,
+    "title": "System Upgrade",
+    "date": "2025-05-14",
+    "time": "09:00",
+    "duration": "90",
+    "description": "Server downtime maintenance",
+    "color": "#e11d48"
+  },
+  {
+    "id": 104,
+    "title": "Lunch with Mentor",
+    "date": "2025-05-18",
+    "time": "12:30",
+    "duration": "60",
+    "description": "Career guidance session",
+    "color": "#34d399"
+  },
+  {
+    "id": 105,
+    "title": "Interview Call",
+    "date": "2025-05-26",
+    "time": "15:00",
+    "duration": "30",
+    "description": "Call with hiring manager",
+    "color": "#8b5cf6"
+  },
+
+ 
+  {
+    "id": 1,
+    "title": "Team Sync",
+    "date": "2025-06-02",
+    "time": "09:00",
+    "duration": "60",
+    "description": "Monday team catch-up",
+    "color": "#0077cc"
+  },
+  {
+    "id": 2,
+    "title": "Doctor Visit",
+    "date": "2025-06-05",
+    "time": "14:30",
+    "duration": "30",
+    "description": "Dental cleaning appointment",
+    "color": "#34d399"
+  },
+  {
+    "id": 3,
+    "title": "Project Demo",
+    "date": "2025-06-08",
+    "time": "11:00",
+    "duration": "45",
+    "description": "Sprint review demo with stakeholders",
+    "color": "#f59e0b"
+  },
+  {
+    "id": 4,
+    "title": "Webinar",
+    "date": "2025-06-10",
+    "time": "18:00",
+    "duration": "60",
+    "description": "Web development trends 2025",
+    "color": "#6366f1"
+  },
+  {
+    "id": 5,
+    "title": "Birthday Party",
+    "date": "2025-06-12",
+    "time": "19:00",
+    "duration": "120",
+    "description": "Friend's surprise birthday celebration",
+    "color": "#e11d48"
+  },
+  {
+    "id": 6,
+    "title": "Yoga Class",
+    "date": "2025-06-15",
+    "time": "07:00",
+    "duration": "60",
+    "description": "Morning mindfulness session",
+    "color": "#10b981"
+  },
+  {
+    "id": 7,
+    "title": "Client Meeting",
+    "date": "2025-06-17",
+    "time": "15:00",
+    "duration": "60",
+    "description": "Quarterly update with client",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 8,
+    "title": "Hackathon",
+    "date": "2025-06-20",
+    "time": "10:00",
+    "duration": "180",
+    "description": "Internal company hackathon",
+    "color": "#f43f5e"
+  },
+  {
+    "id": 9,
+    "title": "Workshop",
+    "date": "2025-06-23",
+    "time": "13:00",
+    "duration": "90",
+    "description": "React performance best practices",
+    "color": "#0ea5e9"
+  },
+  {
+    "id": 10,
+    "title": "Team Outing",
+    "date": "2025-06-28",
+    "time": "17:00",
+    "duration": "180",
+    "description": "Bowling and dinner",
+    "color": "#84cc16"
+  },
+
+  
+  {
+    "id": 201,
+    "title": "Web Design Review",
+    "date": "2025-07-01",
+    "time": "10:00",
+    "duration": "60",
+    "description": "Feedback session with UI team",
+    "color": "#facc15"
+  },
+  {
+    "id": 202,
+    "title": "Strategy Meeting",
+    "date": "2025-07-04",
+    "time": "15:00",
+    "duration": "90",
+    "description": "H1 performance + H2 planning",
+    "color": "#2563eb"
+  },
+  {
+    "id": 203,
+    "title": "All-Hands Meeting",
+    "date": "2025-07-10",
+    "time": "16:00",
+    "duration": "60",
+    "description": "Company-wide updates",
+    "color": "#10b981"
+  },
+  {
+    "id": 204,
+    "title": "College Alumni Talk",
+    "date": "2025-07-15",
+    "time": "12:00",
+    "duration": "90",
+    "description": "Speaking about career journey",
+    "color": "#f43f5e"
+  },
+  {
+    "id": 205,
+    "title": "Vacation Start",
+    "date": "2025-07-20",
+    "time": "09:00",
+    "duration": "1440",
+    "description": "Trip to Manali 🌄",
+    "color": "#84cc16"
+  }
+]

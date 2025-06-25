@@ -1,0 +1,58 @@
+.event-block {
+  position: absolute;
+  left: 0;         /* Remove padding/margin on left/right */
+  right: 0;
+  top: 0;
+  background-color: #0077cc;
+  color: white;
+  font-size: 0.85rem;
+  font-weight: bold;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;      /* Vertical center */
+  justify-content: center;  /* Horizontal center */
+  text-align: center;
+  padding: 0 4px;
+  overflow: visible;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.day-column {
+  position: relative;
+}
+.tooltip {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: white;
+  padding: 8px;
+  border-radius: 6px;
+  width: 200px;
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+  margin-top: 6px;
+}
+
+.tooltip-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.tooltip-actions button {
+  background: #0077cc;
+  color: white;
+  padding: 4px 8px;
+  font-size: 0.7rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tooltip-actions button:last-of-type {
+  background: #cc0000;
+}

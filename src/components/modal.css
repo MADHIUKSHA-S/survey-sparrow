@@ -1,0 +1,69 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal {
+  background: #2e2e2e; /* Dark gray background */
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  width: 340px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+.modal input,
+.modal textarea {
+  background: #444;
+  color: white;
+  border: 1px solid #666;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.modal label {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 1rem;
+}
+
+.modal-actions button {
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border: none;
+}
+
+.modal-actions button:first-of-type {
+  background: #555;
+  color: white;
+}
+
+.modal-actions button:last-of-type {
+  background: #0077cc;
+  color: white;
+}
+
+.modal-actions button:last-of-type:hover {
+  background: #005fa3;
+}
